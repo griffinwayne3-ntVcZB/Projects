@@ -1,2 +1,2 @@
 # Projects
-A place to store my projects for Cybersecurity course
+A place to store projects and things I made for my cybersecurity course
